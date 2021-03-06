@@ -19,6 +19,8 @@
     "dashboard": { "tags": [] },
     "dashboard-e2e": { "tags": [], "implicitDependencies": ["dashboard"] },
     "core-data": { "tags": [] },
-    "material": { "tags": [] }
+    "material": { "tags": [] },
+    "ui-toolbar": { "tags": [] },
+    "toolbar": { "tags": [] }
   }
 }

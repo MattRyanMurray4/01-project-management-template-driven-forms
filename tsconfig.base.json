@@ -16,7 +16,9 @@
     "baseUrl": ".",
     "paths": {
       "@dashboard/core-data": ["libs/core-data/src/index.ts"],
-      "@dashboard/material": ["libs/material/src/index.ts"]
+      "@dashboard/material": ["libs/material/src/index.ts"],
+      "@dashboard/ui-toolbar": ["libs/ui-toolbar/src/index.ts"],
+      "@dashboard/toolbar": ["libs/toolbar/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
